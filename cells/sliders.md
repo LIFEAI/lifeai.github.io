@@ -1,0 +1,3 @@
+# Sliders
+
+> An awesome project.
